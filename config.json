@@ -1,0 +1,21 @@
+{
+    "cognitive_atlas_task_id": "trm_5696bcf1b5c64",
+    "instructions":"Respond to the stimuli on the screen.",
+    "description":"Expfactory experiment",
+    "url":"https://www.github.com/expfactory-experiments/tower-of-london-imagine",
+    "contributors": [
+        "Ian Eisenberg",
+        "Zeynep Enkavi",
+        "Patrick Bissett",
+        "Vanessa Sochat",
+        "Russell Poldrack"
+    ],
+    "exp_id": "tower-of-london-imagine",
+    "name": "Tower of London Imagine",
+    "reference": [
+        "http://rstb.royalsocietypublishing.org/content/royptb/298/1089/199.full.pdf",
+        "https://www.researchgate.net/publication/11201010_The_Tower_of_London_Spatial_Problem-Solving_Task_Enhancing_Clinical_and_Research_Implementation"
+    ],
+    "template": "jspsych",
+    "time": 8
+}
